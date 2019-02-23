@@ -52,4 +52,8 @@ print(spacedOut)
 //Otherwise, search through the almighty Google to learn it; gives you top options from Stack Overflow.
 
 //Start Part 9
+let removed = notedNumbers.remove(at: 2)
+print(notedNumbers)
 
+let leaveOut = fruitNames.remove(at: 1)
+print(fruitNames)
